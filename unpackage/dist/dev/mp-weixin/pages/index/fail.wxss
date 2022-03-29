@@ -1,0 +1,47 @@
+
+page{
+	background: #F5F5F5;
+}
+.pay_content{
+	text-align: center;
+	padding: 0 15px;
+}
+.product_name{
+	display: flex;
+	justify-content: space-between;
+	padding: 13px 15px;
+	background: #FFFFFF;
+	border-radius: 8px;
+	margin: 40px 0;
+	font-size: 13px;
+	font-weight: 600;
+	color: #333333;
+}
+button{
+	border: none;
+}
+button::after{ border: none;
+}
+.btn{
+	margin-bottom: 16px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 8px;
+}
+.pay_btn{
+	font-size: 15px;
+	font-weight: 600;
+	color: #FFFFFF;
+}
+.cancel_btn{
+	background: #FFFFFF;
+	font-size: 15px;
+	font-weight: 600;
+	color: #333333;
+}
+.tip_img{
+	height: 62px;
+	width: 62px;
+	margin: 34px 0 10px;
+}
+

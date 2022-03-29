@@ -1,0 +1,1 @@
+<view class="pay_content"><image class="tip_img" src="../../static/pay/ok.png"></image><view class="pay_res">充值成功</view><view class="product_name"><view>商品名称</view><view>{{content}}</view></view><button class="btn pay_btn" type="primary" open-type="launchApp" app-parameter="{type:0,success:true}" binderror="launchAppError">完成</button></view>
